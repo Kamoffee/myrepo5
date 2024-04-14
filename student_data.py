@@ -1,4 +1,4 @@
-def get_student_data (last_name: str, first_name: str, student_id: int ) -> tuple:
+def get_student_data(last_name: str, first_name: str, student_id: int) -> tuple:
     """ 
     Creating a function that return user name, first name and student.
 
